@@ -1,2 +1,2 @@
 # SegundoRepositorio
-Fin de la practica
+Fin de la practica de GitHub
